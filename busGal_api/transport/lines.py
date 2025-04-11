@@ -1,9 +1,6 @@
 from . import _rest_adapter
 from .stops import Stop
 
-from fuzzywuzzy import fuzz
-
-
 ## vvv Classes vvv ##
 
 class Line():
